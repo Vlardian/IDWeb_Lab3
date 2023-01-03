@@ -22,11 +22,24 @@ namespace StudentList
 
         public IConfiguration Configuration { get; }
 
+        public static class DatabaseManagementService
+        {
+            // Getting the scope of our database context
+            public static void MigrationInitialisation(IApplicationBuilder app)
+            {
+                using (var serviceScope = app.ApplicationServices.CreateScope())
+                {
+                    // Takes all of our migrations files and apply them against the database in case they are not implemented
+                    serviceScope.ServiceProvider.GetService<ApplicationDbContext>().Database.Migrate();
+                }
+            }
+        }
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(
-                options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
+                options => options.UseSqlServer(Configuration.GetConnectionString("Deploy"))
                 );
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
         }
@@ -44,6 +57,8 @@ namespace StudentList
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+            DatabaseManagementService.MigrationInitialisation(app);
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
