@@ -1,7 +1,7 @@
 version: "3.3"  # optional since v1.27.0
 services:
   app-image:
-    image: app-image
+    image: vlardian/idweb-lab4:app-tag
     container_name: app-container
     ports:
       - "5000:80"
