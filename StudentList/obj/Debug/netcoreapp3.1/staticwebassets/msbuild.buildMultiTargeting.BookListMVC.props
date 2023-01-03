@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookListMVC.props" />
+</Project>

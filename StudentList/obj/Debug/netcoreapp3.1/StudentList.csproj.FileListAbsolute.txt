@@ -1,0 +1,1346 @@
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\JUnit.TestLogger.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\appsettings.json
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.Views.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\StudentList.Views.pdb
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\webdev\IDWeb Lab3\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.csproj.AssemblyReference.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\staticwebassets\StudentList.StaticWebAssets.Manifest.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.input.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.output.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.RazorCoreGenerate.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.Views.pdb
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.csproj.CopyComplete
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Student\Upsert.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\JUnit.TestLogger.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\appsettings.json
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.Views.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.Views.pdb
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\webdev\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.AssemblyReference.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\staticwebassets\StudentList.StaticWebAssets.Manifest.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.input.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.output.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorCoreGenerate.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Student\Upsert.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cache
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cs
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.Views.pdb
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CopyComplete
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\webdev\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\JUnit.TestLogger.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.Views.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\StudentList.Views.pdb
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.AssemblyReference.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorAssemblyInfo.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\staticwebassets\StudentList.StaticWebAssets.Manifest.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\staticwebassets\StudentList.StaticWebAssets.xml
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentList.styles.css
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.input.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.TagHelpers.output.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorCoreGenerate.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\Student\Upsert.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cache
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.RazorTargetAssemblyInfo.cs
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.Views.pdb
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CopyComplete
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+C:\Users\vldas\OneDrive\Desktop\UTM\IDWeb\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
